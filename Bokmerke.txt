@@ -1,0 +1,9 @@
+Neste: 
+1. Fiks id-er, slik at de ikke starter på 1, hver gang systemet starter
+2. Opprett meny, med valg for å skifte mellom AddUser og AddCustomer
+3. Opprett Gui for prosjekter og aktiviteter 
+    3.1. Opprett Customer først, via AddCustomer
+    3.2. Opprett Project og velg Customer
+    3.3. Prøv å lagre nytt prosjekt objekt sammen med Customer prosjektet
+    3.4. Dersom det ikke går og bruk id
+
